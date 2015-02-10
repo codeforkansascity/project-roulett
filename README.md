@@ -7,14 +7,15 @@ This project space is for the analysis and visualization of other national proje
 greater visibility on both types of solutions and types of functionality that can be applied
 locally.
 
-## Technology Patterns
+## How You Can Help
 This a text only repo, but we intend to add other tools later.
 
 Here are some ways *you* can contribute:
 
-* by adding locations, see below
 * by reviewing other Brigade projects and commenting on them
 * by analyzing the data for us
+* by mapping other Brigade capabilities to Kansas City needs
+* by riffing off of other projects
 
 [issues]: https://github.com/codeforkansascity/project-roulette/issues
 
