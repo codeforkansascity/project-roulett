@@ -1,3 +1,3 @@
 # project-roulette
 Project Roulette
-Testing
+Testing a committ
