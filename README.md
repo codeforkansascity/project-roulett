@@ -1,14 +1,11 @@
 # project-roulette
 
-### Problem Statement
+## Problem Statement
 
 What are other Brigades doing that can benefit Kansas City?  Let's spin the roulette wheel and find out.
 This project space is for the analysis and visualization of other national project efforts to bring
 greater visibility on both types of solutions and types of functionality that can be applied
 locally.
-
-#### Running the Site Locally on Your Computer
-To run the site locally on your own computer (most helpful for previewing your own changes),
 
 ## Technology Patterns
 This a text only repo, but we intend to add other tools later.
